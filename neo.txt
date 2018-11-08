@@ -1,0 +1,11 @@
+create(cs:department{name:'cs',strength:200})
+create(com:department{name:'com',strength:200})
+create(college:ganesh{name:'Ganeshcollege',Category:'Science'})
+create(college)-[r1:contains]->(cs)
+$create(college)-[r2:contains]->(com)
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+
+Environment and Architecture
+Installation of Tableau
+Workspace and Views
+
+Interfacing ,disbursement and publishing 
+
+Connecting with Data Source
+	Data introduction
+	Metadata and extracts management 
+	restoring and promoting data and its resourse
+	Preparation of data 
+	Data Extraction
+	integration and joins
+	Blending the data
+	Connecting with data resources
+	Data cleaning 
+
+Customs and Calculations
+
+	Operators and Functions
+	Numerical and String calculations
+	Logical Calculations
+	Table calulations
+	Date Calculations
+	Type Calculations
+	Level of Detail expressions
+	Aggregation and replications
+	Nested LoD
+	Granularity
+
+Visual Analytics
+
+	Introduction to Visualization and Analytics
+	Hierarchical and Drilldown 
+	Sorting Grouping creating and working sets 
+	filtering and Formating 
+	Forecasting and Clustering 
+
+Mapping 
+	Maps in tableau
+	Unrecongnized locations and its Editing 
+	Spactial Mapping 
+	Geocoding and its Customizations
+	Map-box Integrations
+	Web Mapping Services
+
+Story Writing with dashboard
+	Introduction to dashboard and Stories
+	Device Engineering 
+	Interactivity 
+
+
+	
+
+	
+	
+	
+
+	
+
+
+
